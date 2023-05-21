@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iReverse Check IMEI - @HadiK IT", "Sources\iReverse Check IMEI - @HadiK IT.csproj", "{9AE7CD22-2033-47CC-891A-653CEE9F4996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE7CD22-2033-47CC-891A-653CEE9F4996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE7CD22-2033-47CC-891A-653CEE9F4996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE7CD22-2033-47CC-891A-653CEE9F4996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE7CD22-2033-47CC-891A-653CEE9F4996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF1398D-7505-4F91-AF02-95036180D8D6}
+	EndGlobalSection
+EndGlobal

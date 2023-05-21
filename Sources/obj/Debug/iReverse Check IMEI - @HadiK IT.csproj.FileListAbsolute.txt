@@ -1,0 +1,9 @@
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\bin\Debug\iReverse Check IMEI - @HadiK IT.exe.config
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\bin\Debug\iReverse Check IMEI - @HadiK IT.exe
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\bin\Debug\iReverse Check IMEI - @HadiK IT.pdb
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse_Check_IMEI_HadiK_IT.Main.resources
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse_Check_IMEI_HadiK_IT.Properties.Resources.resources
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse Check IMEI - @HadiK IT.csproj.GenerateResource.cache
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse Check IMEI - @HadiK IT.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse Check IMEI - @HadiK IT.exe
+C:\Users\email\source\repos\iReverse Check IMEI - @HadiK IT\iReverse Check IMEI - @HadiK IT\obj\Debug\iReverse Check IMEI - @HadiK IT.pdb
