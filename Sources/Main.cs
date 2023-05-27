@@ -33,7 +33,18 @@ namespace iReverse_Check_IMEI_HadiK_IT
                 dataToSend["imei"] = textBox_imei.Text;
                 string GetData = Encoding.UTF8.GetString(wc.UploadValues(@"https://api.nabil.my.id/cekImeiKemenperin", dataToSend));
 
-                richTextBox_Log.Text = GetData.Replace("{", "").Replace("}", "").Replace("\"", "").Replace("status", "").Replace("sukses", "").Replace("failed", "").Replace("message", "").Replace(":", "").Replace(",", "").Replace("     ", "").Replace("\n", "");
+                richTextBox_Log.Text = GetData
+                    .Replace("{", "")
+                    .Replace("}", "")
+                    .Replace("\"", "")
+                    .Replace("status", "")
+                    .Replace("success", "")
+                    .Replace("failed", "")
+                    .Replace("message", "")
+                    .Replace(":", "")
+                    .Replace(",", "")
+                    .Replace("     ", "")
+                    .Replace("\n", "");
             }
             else
             {
